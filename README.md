@@ -1,2 +1,2 @@
-# introdu-ao_POO_em_python
-aulas introdutórias 
+# Aprendendo mais sobre objetos em python
+    Aulas introdutorias da plataforma DIO
